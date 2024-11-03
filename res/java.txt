@@ -1,0 +1,100 @@
+Class
+Object
+Method
+Variable
+Data Type
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+Interface
+Package
+Access Modifier
+Constructor
+Destructor
+Constructor Overloading
+Method Overloading
+Method Overriding
+Super Keyword
+This Keyword
+Static
+Final
+Abstract
+Interface
+Public
+Private
+Protected
+Default
+Static Method
+Static Variable
+Final Method
+Final Variable
+Abstract Method
+Abstract Class
+Loop
+Conditional Statement
+If-else
+Switch
+For Loop
+While Loop
+Do-While Loop
+Array
+ArrayList
+LinkedList
+Queue
+Stack
+Map
+Set
+Collection
+Iterator
+Comparable
+Comparator
+Exception
+Try-Catch
+Throws
+Throw
+Finally
+Checked Exception
+Unchecked Exception
+Null Pointer Exception
+Arithmetic Exception
+File I/O
+Input Stream
+Output Stream
+BufferedReader
+BufferedWriter
+FileReader
+FileWriter
+Serialization
+Deserialization
+JDBC
+SQL
+Connection
+Statement
+ResultSet
+PreparedStatement
+CallableStatement
+ORM (Object-Relational Mapping)
+Hibernate
+Spring Framework
+MVC (Model-View-Controller)
+Servlet
+JSP (JavaServer Pages)
+Session
+Cookie
+RESTful
+SOAP
+JSON
+XML
+Maven
+Gradle
+Annotation
+Reflection
+Lambda Expression
+Stream API
+Multithreading
+Thread
+Runnable
+Synchronization
+Semaphore
+Deadlock
