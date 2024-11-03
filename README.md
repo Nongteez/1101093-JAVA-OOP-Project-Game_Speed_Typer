@@ -1,7 +1,6 @@
 # 🎮 Speed Typer Game
 ## 📝 Introduction
-โปรเจคนี้เกี่ยวกับรายวิชา "1101093 Project in Object-Oriented Programming and Data Structures "
-
+This project is related to the course "1101093 Project in Object-Oriented Programming and Data Structures."
 
 
 ## 🌟 Tools and Languages
@@ -10,7 +9,7 @@
 
 
 ## ✨ How To Play
-- พิมพ์คำที่ตกลงมาจากข้างบน ถ้า คำที่ตกจากข้างบน โดนกรอบด้านล่าง จะจบเกม หรือ แพ้ทันที
+- Type the words falling from above. If a word hits the bottom frame, the game ends, or you lose immediately.
 
 
 ## 📖 Additional Details
